@@ -175,3 +175,4 @@ cython_debug/
 
 # Remove DS_Store
 .DS_Store
+.dev_container
